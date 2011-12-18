@@ -2,7 +2,7 @@
 
 ## Description
 
-This gem handles some of the complexity in dealing with the netflix api (and OAuth in turn). 
+This gem handles some of the complexity in dealing with the netflix api (and OAuth in turn).
 
 ## Installation
 
